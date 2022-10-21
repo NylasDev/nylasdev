@@ -20,10 +20,19 @@ ___
 <img align="left" alt="sass icon" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="javascript icon" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="react icon" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="jest icon" width="40px" src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png" />
+<img align="left" alt="angular icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"/>
+<img align="left" alt="nodejs icon" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/archive/d/d9/20160324173914%21Node.js_logo.svg" />
 <img align="left" alt="webpack icon" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
 <img align="left" alt="git icon" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="photoshop icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" />
 <img align="left" alt="premiere icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/120px-Adobe_Illustrator_CC_icon.svg.png" />
 <br />
+
+### Learning resources I use:
+- <a href="https://zerotomastery.io/academy/" target="_blank">ZTM Academy</a>
+- <a href="https://academind.com" target="_blank">Academind</a>
+- <a href="https://www.udemy.com" target="_blank">Udemy</a>
+- <a href="https://www.theodinproject.com" target="_blank">The Odin Project</a>
+
+
 <br />
