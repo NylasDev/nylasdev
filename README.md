@@ -3,7 +3,7 @@
 ## I'm a university graduate and looking to further advance my knowledge of JavaScript.
 - :seedling: I'm currently self-studying [The Odin Project](https://www.theodinproject.com/) full-stack JS Course
 - :mortar_board: I am currently employed as a Web Developer 
-- :rocket: My 2022 goal is to code non-stop for the next 365 days
+- :rocket: My 2023 goal is to code non-stop for the next 365 days
 - :question: Fun facts: I love sailing and diving. I have a PADI Open Water diver certificat and looking to improve it to Advanced. I also have a ICC Skipper License and a GMDSS LRC Radio communications certificate. 
 
 ___
