@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-header.svg" alt="NylasDev — AI agents, mythic interfaces, sea and stars" width="100%" />
+  <img src="assets/profile-banner.png" alt="NylasDev — engraved Viking longship banner for AI agents, mythic interfaces, sea and stars" width="100%" />
 </p>
 
 <p align="center">
