@@ -1,38 +1,56 @@
-### Hi, there! I'm Sergiu - a Web Developer.
+<p align="center">
+  <img src="assets/profile-header.svg" alt="NylasDev — AI agents, mythic interfaces, sea and stars" width="100%" />
+</p>
 
-## I'm a university graduate and looking to further advance my knowledge of JavaScript.
-- :seedling: I'm currently self-studying [The Odin Project](https://www.theodinproject.com/) full-stack JS Course
-- :mortar_board: I am currently employed as a Web Developer 
-- :rocket: My 2023 goal is to code non-stop for the next 365 days
-- :question: Fun facts: I love sailing and diving. I have a PADI Open Water diver certificat and looking to improve it to Advanced. I also have a ICC Skipper License and a GMDSS LRC Radio communications certificate. 
+<p align="center">
+  <a href="https://www.linkedin.com/in/sergiu-vataman-b18259162"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sergiu%20Vataman-b0501f?style=flat&labelColor=16140f&logo=linkedin&logoColor=f2efe6" /></a>
+  <a href="https://github.com/NylasDev"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-NylasDev-4d493f?style=flat&labelColor=16140f&logo=github&logoColor=f2efe6" /></a>
+  <img alt="Focus" src="https://img.shields.io/badge/Focus-AI%20Agents%20%7C%20Full--Stack%20%7C%20TTRPGs-2b4734?style=flat&labelColor=16140f" />
+</p>
 
-___
+## `CURRENT COURSE • AI ENGINEERING`
 
-### Connect with me:
+I'm **Sergiu Vataman** — a web developer evolving into an AI-engineering, agent-building, mythic-interface gremlin. I like software that feels useful, sharp, and a little legendary: terminal tools, Hermes-powered workflows, design systems with teeth, and automations that save humans from boring nonsense.
 
-[<img align="left" alt="NylasDev linkedin profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sergiu-vataman-b18259162)
+My compass points toward **AI agents**, **full-stack systems**, **TTRPG tooling**, **space exploration / SpaceX**, and anything that mixes practical engineering with a good story.
 
-<br />
+## `QUEST LOG • WHAT I'M BUILDING`
 
-### Languages and Tools:
-<img align="left" alt="html icon" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="css icon" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="sass icon" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="javascript icon" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="react icon" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="angular icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"/>
-<img align="left" alt="nodejs icon" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/archive/d/d9/20160324173914%21Node.js_logo.svg" />
-<img align="left" alt="webpack icon" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
-<img align="left" alt="git icon" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="photoshop icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" />
-<img align="left" alt="premiere icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/120px-Adobe_Illustrator_CC_icon.svg.png" />
-<br />
+| Project | Signal |
+| --- | --- |
+| [**The Viking Company**](https://github.com/NylasDev/the-viking-company) | AI-engineer portfolio in a Hermes-style engraved parchment design system. |
+| [**Hermes Mythic Design**](https://github.com/NylasDev/hermes-mythic-design) | Design tokens + engraving tool for the Renaissance-print-shop-meets-terminal aesthetic. |
+| [**Nylas Dungeon Master Skills**](https://github.com/NylasDev/nylas-dungeon-master-skills) | Public Hermes/agent skills for campaigns, NPCs, lore, encounters, and tabletop craft. |
+| **Agentic Terminal experiments** | Private lab work around agentic workflows in the terminal — where the useful chaos lives. |
+| **RAG / pgvector work** | Private experiments with chunking, retrieval, embeddings, and the sacred art of making context less cursed. |
+| [**Foundry VTT modules**](https://github.com/NylasDev/narrative-health-states-by-nylasdev) | Game-table tooling inspired by classic CRPGs and narrative-first design. |
 
-### Learning resources I use:
-- <a href="https://zerotomastery.io/academy/" target="_blank">ZTM Academy</a>
-- <a href="https://academind.com" target="_blank">Academind</a>
-- <a href="https://www.udemy.com" target="_blank">Udemy</a>
-- <a href="https://www.theodinproject.com" target="_blank">The Odin Project</a>
+## `TOOLBELT • LANGUAGES AND SYSTEMS`
 
+<p align="center">
+  <img alt="Tech stack icons" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,php,wordpress,html,css,sass,angular,postgres,docker,git,github,vscode,figma" />
+</p>
 
-<br />
+```txt
+Primary orbit:   TypeScript · React · Next.js · Node.js · Python
+Useful scars:    PHP · WordPress · PostgreSQL · Docker · GitHub workflows
+Design taste:    parchment, ink, hairline rules, terminal panels, mythic engravings
+Current pull:    AI agents, RAG, Hermes skills, automation, TTRPG tooling
+```
+
+## `OFFLINE LORE • WHY THE CODE IS LIKE THIS`
+
+- ⛵ **Sailing:** ICC Skipper + GMDSS LRC — navigation brain permanently installed.
+- 🤿 **Diving:** PADI Open Water, with the Advanced cert still calling from the deep.
+- 🐉 **TTRPGs:** Dungeons & Dragons, worldbuilding, DM craft, Foundry VTT, and crunchy narrative tools.
+- 🪐 **Space:** SpaceX, reusable rockets, deep-space exploration, and the old human habit of looking up and saying “what if?”
+- ⚔️ **Mythic fuel:** Vikings, EXODUS, chess, strange machines, and assistants that should probably have names and opinions.
+
+## `OPERATING PRINCIPLE`
+
+> Build the thing. Test the thing. Make it useful. Then make it feel like it belongs in a saga.
+
+<p align="center">
+  <img height="165" alt="NylasDev GitHub stats" src="https://github-readme-stats.vercel.app/api?username=NylasDev&show_icons=true&hide_border=true&bg_color=f2efe6&title_color=16140f&text_color=4d493f&icon_color=b0501f" />
+  <img height="165" alt="NylasDev top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NylasDev&layout=compact&hide_border=true&bg_color=f2efe6&title_color=16140f&text_color=4d493f" />
+</p>
